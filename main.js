@@ -1,7 +1,4 @@
 const qBtn = document.querySelectorAll(".question-btn");
-const answ = document.querySelectorAll(".answer");
-const plusBtn = document.querySelectorAll(".plus-btn");
-const minusBtn = document.querySelectorAll(".minus-btn");
 
 qBtn.forEach((x) =>
   x.addEventListener("click", () => {

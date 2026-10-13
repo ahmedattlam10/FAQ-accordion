@@ -113,7 +113,7 @@ body {
   transition: color 0.3s ease;
 }
 
-.question:hover {
+.question-btn:hover .question {
   color: var(--violet-600-clr);
 }
 
